@@ -1,5 +1,1 @@
-<?php
-
-echo "halo";
-echo "geda gedi geda o";
-echo "tes";
+<p>haloo php</p>
